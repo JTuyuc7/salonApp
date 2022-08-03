@@ -1,0 +1,24 @@
+#Ignore node modules
+node_modules
+/node_modules
+
+#Variables de entorno
+.env
+
+#SRC
+src/
+
+#vendor
+vendor/
+
+#Fulp file
+gulpfile.js
+
+# Package json
+package.json
+
+# package-lock-json
+package-lock.json
+
+# Ds Store
+.DS_Store
